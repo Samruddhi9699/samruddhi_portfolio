@@ -6,7 +6,6 @@ const interests = [
   "Watching anime",
   "Travelling",
   "Reading — fiction and tech",
-  "Learning Japanese (currently N5)",
 ];
 
 const AboutCard = () => {
